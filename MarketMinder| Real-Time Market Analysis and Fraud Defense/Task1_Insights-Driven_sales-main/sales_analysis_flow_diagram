@@ -1,0 +1,18 @@
+// Insights-Driven Sales Analysis
+digraph {
+	A [label="Import Libraries"]
+	B [label="Load Dataset (Insights-Driven_sales-main.csv)"]
+	C [label="Check Dataset Dimensions"]
+	D [label="Explore Data"]
+	E [label="Statistical Summary"]
+	F [label="Data Cleaning"]
+	G [label="Data Visualization"]
+	H [label="Generate Insights"]
+	A -> B
+	B -> C
+	C -> D
+	D -> E
+	E -> F
+	F -> G
+	G -> H
+}
