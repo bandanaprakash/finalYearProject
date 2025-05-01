@@ -1,11 +1,11 @@
-# TASK 1: Titanic Survival Prediction
+# TASK 1:  Insights-Driven_sales
 ## Overview
 The goal of this task is to analyze sales data and extract actionable insights for improving sales strategies. By studying customer demographics, purchasing behavior, and spending patterns, the project identifies the most profitable customer segments and provides recommendations for targeted decision-making.
 
 ## Project Details
 * Data Components:
-Customer Information: Age, gender, marital status, location, occupation.
-Purchase Data: Product categories, order quantities, spending amounts.
+  - Customer Information: Age, gender, marital status, location, occupation.
+  - Purchase Data: Product categories, order quantities, spending amounts.
 
 * Approach:
   - Used Exploratory Data Analysis (EDA) techniques with Python libraries like Pandas, NumPy, Matplotlib, and Seaborn to clean, transform, and visualize the data.
