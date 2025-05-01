@@ -34,7 +34,7 @@ The project details and conclusions could indeed be tailored to reflect Hackveda
 
 4. Fraud Detection: Hackveda's focus on anomaly detection using logistic regression laid the groundwork for identifying fraudulent transactions with ~93% accuracy.
 
-###Hackveda Limited's pivotal role in executing data-driven solutions for market analysis, predictive modeling, and fraud prevention.
+## Hackveda Limited's pivotal role in executing data-driven solutions for market analysis, predictive modeling, and fraud prevention.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/bandanaprakash) and explore my GitHub repositories for a detailed look into each project. Thank you, [HackVeda_Limiited](https://hackveda.in/one2one/), for this incredible learning journey!
 
