@@ -1,10 +1,10 @@
-# CODSOFT Data Science Internship
-Welcome to my CODSOFT Data Science Internship Portfolio! In this repository, you will find a collection of projects that I have completed during my internship at CODSOFT. Each project showcases my skills in data analysis, machine learning, and problem-solving.
+# Hackveda Limited Data Engineer Internship
+Welcome to Hackveda Limited Data Engineer Internship Portfolio! In this repository, you will find a collection of projects that I have completed during my internship at HackVeda Limited. Each project showcases my skills in data analysis, machine learning, and problem-solving.
 
 ## INTRODUCTION:
-I am thrilled to share my journey during the CODSOFT Data Science Internship, where I had the opportunity to work on any three of five exciting projects/tasks that delved into different aspects of data science. This internship has been an invaluable learning experience, and I am excited to showcase the results of my hard work. Below are the tasks given by CODSOFT during this internship journey:
+I am thrilled to share my journey during the Hackveda Limited Data Engineer Internship, where I had the opportunity to work on any three of five exciting projects/tasks that delved into different aspects of data engineer. This internship has been an invaluable learning experience, and I am excited to showcase the results of my hard work. Below are the tasks given by Hackveda during this internship journey:
 
-## DATA SCIENCE TASKS:
+## Data Engineer TASKS:
 1. TASK 1: Insights-Driven_sales
 PURPOSE: to analyze sales transactions and derive actionable insights that can enhance sales strategies. Specifically, the dataset contains information about customers, their demographics, purchase behaviors, and transaction details.
 
